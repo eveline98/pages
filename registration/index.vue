@@ -183,7 +183,7 @@ export default {
   data() {
       return {
         role: 2,
-        username: 'ABCDEG',
+        username: 'uuuuuu',
         pass:'AFDFSFS!aaa24234',
         email: 'aa@aa.com',
         first_name: 'Abcascas',
